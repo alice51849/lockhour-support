@@ -1,0 +1,1286 @@
+{
+  "app": {
+    "app_key": "lockhour",
+    "app_store_id": "6780107485",
+    "kids": false,
+    "purchase_model": "free_with_lifetime_unlock"
+  },
+  "base_sha": "4c577ec0da6027ab3e2147a6a30466759dab0f85",
+  "base_url": "https://alice51849.github.io/lockhour-support/",
+  "blocked_cells": {},
+  "brand": {
+    "accent": "#8e6be6",
+    "icon": "icon.png"
+  },
+  "catalog_locales": {
+    "ar-SA": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "احصل على LockHour Pro من متجر التطبيقات →",
+      "app_store_url": "https://apps.apple.com/sa/app/id6780107485?pt=118326163&ct=iag_data_ar_sa&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "أثناء الامتحانات، الإرادة ليست الأداة — الحظر الصارم المحدد زمنياً هو الأداة — LockHour Pro مصمم لهذا.",
+      "verified_live": true
+    },
+    "bn-BD": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store থেকে LockHour Pro পান →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_bn_bd&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "পরীক্ষার সময় ইচ্ছাশক্তি নয় — কঠোর সময়সীমা ব্লক প্রয়োজন — লকআওয়ার প্রো এই জন্য তৈরি।",
+      "verified_live": true
+    },
+    "ca": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Descarrega LockHour Pro a l’App Store →",
+      "app_store_url": "https://apps.apple.com/es/app/id6780107485?pt=118326163&ct=iag_data_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Durant els exàmens, la força de voluntat no és l’eina — un bloqueig ferm i temporitzat sí — LockHour Pro està dissenyat per això.",
+      "verified_live": true
+    },
+    "cs": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Stáhněte LockHour Pro v App Store →",
+      "app_store_url": "https://apps.apple.com/cz/app/id6780107485?pt=118326163&ct=iag_data_cs&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Během zkoušek není vůle nástrojem — je to tvrdá časová blokace — LockHour Pro je na to navržen.",
+      "verified_live": true
+    },
+    "da": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Hent LockHour Pro i App Store →",
+      "app_store_url": "https://apps.apple.com/dk/app/id6780107485?pt=118326163&ct=iag_data_da&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Under eksamener er viljestyrke ikke værktøjet – en hård tidsbestemt blokering er – LockHour Pro er lavet til dette.",
+      "verified_live": true
+    },
+    "de-DE": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Holen Sie sich LockHour Pro im App Store →",
+      "app_store_url": "https://apps.apple.com/de/app/id6780107485?pt=118326163&ct=iag_data_de_de&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Während Prüfungen ist Willenskraft nicht das Werkzeug – eine harte zeitgesteuerte Sperre ist es – LockHour Pro ist dafür gemacht.",
+      "verified_live": true
+    },
+    "el": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Κατεβάστε το LockHour Pro από το App Store →",
+      "app_store_url": "https://apps.apple.com/gr/app/id6780107485?pt=118326163&ct=iag_data_el&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Κατά τη διάρκεια εξετάσεων, η θέληση δεν αρκεί — χρειάζεται αυστηρό χρονικό μπλοκάρισμα — το LockHour Pro είναι φτιαγμένο γι’ αυτό.",
+      "verified_live": true
+    },
+    "en-AU": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Get LockHour Pro on the App Store →",
+      "app_store_url": "https://apps.apple.com/au/app/id6780107485?pt=118326163&ct=iag_data_en_au&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "During exams, willpower isn't the tool — a hard timed block is — LockHour Pro is built for this.",
+      "verified_live": true
+    },
+    "en-CA": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Get LockHour Pro on the App Store →",
+      "app_store_url": "https://apps.apple.com/ca/app/id6780107485?pt=118326163&ct=iag_data_en_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "During exams, willpower isn't the tool — a hard timed block is — LockHour Pro is built for this.",
+      "verified_live": true
+    },
+    "en-GB": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Get LockHour Pro on the App Store →",
+      "app_store_url": "https://apps.apple.com/gb/app/id6780107485?pt=118326163&ct=iag_data_en_gb&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "During exams, willpower isn't the tool — a hard timed block is — LockHour Pro is built for this.",
+      "verified_live": true
+    },
+    "en-US": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Get LockHour Pro on the App Store →",
+      "app_store_url": "https://apps.apple.com/us/app/id6780107485?pt=118326163&ct=iag_data_en_us&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "During exams, willpower isn't the tool — a hard timed block is — LockHour Pro is built for this.",
+      "verified_live": true
+    },
+    "es-ES": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Consigue LockHour Pro en la App Store →",
+      "app_store_url": "https://apps.apple.com/es/app/id6780107485?pt=118326163&ct=iag_data_es_es&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Durante los exámenes, la fuerza de voluntad no es la herramienta — un bloqueo estricto con tiempo es la solución — LockHour Pro está diseñado para esto.",
+      "verified_live": true
+    },
+    "es-MX": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Consigue LockHour Pro en la App Store →",
+      "app_store_url": "https://apps.apple.com/mx/app/id6780107485?pt=118326163&ct=iag_data_es_mx&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Durante los exámenes, la fuerza de voluntad no es la herramienta — un bloqueo estricto con tiempo es la solución — LockHour Pro está diseñado para esto.",
+      "verified_live": true
+    },
+    "fi": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Hanki LockHour Pro App Storesta →",
+      "app_store_url": "https://apps.apple.com/fi/app/id6780107485?pt=118326163&ct=iag_data_fi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Kokeissa tahdonvoima ei riitä — tarvitaan tiukka ajoitettu esto — LockHour Pro on tehty tätä varten.",
+      "verified_live": true
+    },
+    "fr-CA": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Obtenez LockHour Pro sur l’App Store →",
+      "app_store_url": "https://apps.apple.com/ca/app/id6780107485?pt=118326163&ct=iag_data_fr_ca&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Pendant les examens, la volonté ne suffit pas — un blocage strict et chronométré est nécessaire — LockHour Pro est conçu pour cela.",
+      "verified_live": true
+    },
+    "fr-FR": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Obtenez LockHour Pro sur l’App Store →",
+      "app_store_url": "https://apps.apple.com/fr/app/id6780107485?pt=118326163&ct=iag_data_fr_fr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Pendant les examens, la volonté ne suffit pas — un blocage strict et chronométré est nécessaire — LockHour Pro est conçu pour cela.",
+      "verified_live": true
+    },
+    "gu-IN": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store પર LockHour Pro મેળવો →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_gu_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "પરીક્ષાઓ દરમિયાન, ઇચ્છાશક્તિ સાધન નથી — કડક સમયબદ્ધ બ્લોક છે — LockHour Pro આ માટે બનાવવામાં આવ્યું છે.",
+      "verified_live": true
+    },
+    "he": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "קבל את LockHour Pro ב-App Store →",
+      "app_store_url": "https://apps.apple.com/il/app/id6780107485?pt=118326163&ct=iag_data_he&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "במהלך בחינות, כוח רצון אינו הכלי — חסימה קשה וממוקדת בזמן היא — LockHour Pro נבנתה לכך.",
+      "verified_live": true
+    },
+    "hi": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store से LockHour Pro प्राप्त करें →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_hi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "परीक्षा के दौरान, इच्छाशक्ति उपकरण नहीं है — एक कड़ा समयबद्ध ब्लॉक है — LockHour Pro इसी के लिए बनाया गया है।",
+      "verified_live": true
+    },
+    "hr": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Preuzmite LockHour Pro u App Storeu →",
+      "app_store_url": "https://apps.apple.com/hr/app/id6780107485?pt=118326163&ct=iag_data_hr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Tijekom ispita, snaga volje nije alat — stroga vremenski ograničena blokada jest — LockHour Pro je stvoren za to.",
+      "verified_live": true
+    },
+    "hu": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Szerezze be a LockHour Pro-t az App Store-ból →",
+      "app_store_url": "https://apps.apple.com/hu/app/id6780107485?pt=118326163&ct=iag_data_hu&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Vizsgák alatt az akaraterő nem elég — kemény, időzített blokkolás kell — a LockHour Pro erre készült.",
+      "verified_live": true
+    },
+    "id": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Dapatkan LockHour Pro di App Store →",
+      "app_store_url": "https://apps.apple.com/id/app/id6780107485?pt=118326163&ct=iag_data_id&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Saat ujian, kemauan bukan alatnya — blok waktu yang ketat adalah — LockHour Pro dibuat untuk ini.",
+      "verified_live": true
+    },
+    "it": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Scarica LockHour Pro dall'App Store →",
+      "app_store_url": "https://apps.apple.com/it/app/id6780107485?pt=118326163&ct=iag_data_it&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Durante gli esami, la forza di volontà non basta — serve un blocco rigoroso a tempo — LockHour Pro è progettato per questo.",
+      "verified_live": true
+    },
+    "ja": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App StoreでLockHour Proを入手 →",
+      "app_store_url": "https://apps.apple.com/jp/app/id6780107485?pt=118326163&ct=iag_data_ja&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "試験中は意志力ではなく、強制的な時間制限ブロックが必要です。— LockHour Proはそれを実現します。",
+      "verified_live": true
+    },
+    "kn-IN": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store ನಲ್ಲಿ LockHour Pro ಪಡೆಯಿರಿ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_kn_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "ಪರೀಕ್ಷೆಗಳ ಸಮಯದಲ್ಲಿ, ಇಚ್ಛಾಶಕ್ತಿ ಸಾಧನವಲ್ಲ — ಕಠಿಣ ಸಮಯ ನಿಯಂತ್ರಿತ ತಡೆ ಸಾಧನ — ಲಾಕ್‌ಹವರ್ ಪ್ರೋ ಇದಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ.",
+      "verified_live": true
+    },
+    "ko": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store에서 LockHour Pro 받기 →",
+      "app_store_url": "https://apps.apple.com/kr/app/id6780107485?pt=118326163&ct=iag_data_ko&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "시험 기간에는 의지력이 아니라 강력한 시간 제한 차단이 필요합니다 — LockHour Pro는 이를 위해 만들어졌습니다.",
+      "verified_live": true
+    },
+    "ml-IN": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store-ൽ നിന്ന് LockHour Pro നേടുക →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_ml_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "പരീക്ഷകളിൽ, മനോശക്തി ഉപകരണം അല്ല — കർശനമായ സമയപരിധിയുള്ള തടസ്സമാണ് — LockHour Pro ഇതിന് രൂപകൽപ്പന ചെയ്തതാണ്.",
+      "verified_live": true
+    },
+    "mr-IN": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store वरून LockHour Pro मिळवा →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_mr_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "परीक्षेदरम्यान, इच्छाशक्ती साधन नाही — कडक वेळेवर ब्लॉक आवश्यक आहे — LockHour Pro यासाठी तयार केलेले आहे.",
+      "verified_live": true
+    },
+    "ms": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Dapatkan LockHour Pro di App Store →",
+      "app_store_url": "https://apps.apple.com/my/app/id6780107485?pt=118326163&ct=iag_data_ms&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Semasa peperiksaan, kekuatan kehendak bukan alatnya — sekatan masa keras adalah — LockHour Pro dibina untuk ini.",
+      "verified_live": true
+    },
+    "nl-NL": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Download LockHour Pro in de App Store →",
+      "app_store_url": "https://apps.apple.com/nl/app/id6780107485?pt=118326163&ct=iag_data_nl_nl&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Tijdens examens is wilskracht niet het hulpmiddel — een harde getimede blokkade wel — LockHour Pro is hiervoor gemaakt.",
+      "verified_live": true
+    },
+    "no": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Få LockHour Pro på App Store →",
+      "app_store_url": "https://apps.apple.com/no/app/id6780107485?pt=118326163&ct=iag_data_no&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Under eksamen er ikke viljestyrke verktøyet – en hard tidsbestemt blokkering er det – LockHour Pro er laget for dette.",
+      "verified_live": true
+    },
+    "or-IN": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store ରୁ LockHour Pro ପାଆନ୍ତୁ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_or_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "ପରୀକ୍ଷା ସମୟରେ, ଇଚ୍ଛାଶକ୍ତି ହେଉଛି ଉପକରଣ ନୁହେଁ — ଏକ କଠୋର ସମୟ ନିର୍ଦ୍ଧାରିତ ବ୍ଲକ୍ ହେଉଛି — ଲକ୍ହାଉର୍ ପ୍ରୋ ଏହା ପାଇଁ ତିଆରି।",
+      "verified_live": true
+    },
+    "pa-IN": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store ਤੋਂ LockHour Pro ਪ੍ਰਾਪਤ ਕਰੋ →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_pa_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "ਪਰੀਖਿਆ ਦੌਰਾਨ, ਇੱਛਾ-ਸ਼ਕਤੀ ਸੰਦ ਨਹੀਂ — ਇੱਕ ਕਠੋਰ ਸਮੇਂ-ਬੱਧ ਬਲੌਕ ਹੈ — ਲੌਕਆਵਰ ਪ੍ਰੋ ਇਸ ਲਈ ਬਣਾਇਆ ਗਿਆ ਹੈ।",
+      "verified_live": true
+    },
+    "pl": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Pobierz LockHour Pro z App Store →",
+      "app_store_url": "https://apps.apple.com/pl/app/id6780107485?pt=118326163&ct=iag_data_pl&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Podczas egzaminów siła woli nie wystarczy — potrzebna jest twarda blokada na czas — LockHour Pro jest do tego stworzony.",
+      "verified_live": true
+    },
+    "pt-BR": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Baixe o LockHour Pro na App Store →",
+      "app_store_url": "https://apps.apple.com/br/app/id6780107485?pt=118326163&ct=iag_data_pt_br&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Durante provas, força de vontade não é a ferramenta — um bloqueio rígido temporizado é — LockHour Pro foi feito para isso.",
+      "verified_live": true
+    },
+    "pt-PT": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Obtenha o LockHour Pro na App Store →",
+      "app_store_url": "https://apps.apple.com/pt/app/id6780107485?pt=118326163&ct=iag_data_pt_pt&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Durante os exames, a força de vontade não é a ferramenta — um bloqueio temporizado rigoroso é — o LockHour Pro foi criado para isso.",
+      "verified_live": true
+    },
+    "ro": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Descarcă LockHour Pro din App Store →",
+      "app_store_url": "https://apps.apple.com/ro/app/id6780107485?pt=118326163&ct=iag_data_ro&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "În timpul examenelor, voința nu este instrumentul — un blocaj ferm temporizat este — LockHour Pro este creat pentru asta.",
+      "verified_live": true
+    },
+    "ru": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Скачайте LockHour Pro в App Store →",
+      "app_store_url": "https://apps.apple.com/ru/app/id6780107485?pt=118326163&ct=iag_data_ru&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Во время экзаменов сила воли — не инструмент, нужен жёсткий тайм-блок — LockHour Pro создан именно для этого.",
+      "verified_live": true
+    },
+    "sk": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Stiahnite si LockHour Pro v App Store →",
+      "app_store_url": "https://apps.apple.com/sk/app/id6780107485?pt=118326163&ct=iag_data_sk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Počas skúšok nie je vôľa nástrojom — tvrdý časový blok je — LockHour Pro je na to navrhnutý.",
+      "verified_live": true
+    },
+    "sl-SI": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Prenesite LockHour Pro iz App Store →",
+      "app_store_url": "https://apps.apple.com/si/app/id6780107485?pt=118326163&ct=iag_data_sl_si&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Med izpiti volja ni orodje — trda časovno omejena blokada je — LockHour Pro je narejen za to.",
+      "verified_live": true
+    },
+    "sv": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Skaffa LockHour Pro på App Store →",
+      "app_store_url": "https://apps.apple.com/se/app/id6780107485?pt=118326163&ct=iag_data_sv&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Under tentor är viljestyrka inte verktyget – en hård tidsbegränsad blockering är det – LockHour Pro är byggd för detta.",
+      "verified_live": true
+    },
+    "ta-IN": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store-இல் LockHour Pro பெறவும் →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_ta_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "பரீட்சைகளின் போது, மனச்சக்தி கருவி அல்ல — கடுமையான நேரமிடப்பட்ட தடுப்பு தான் — LockHour Pro இதற்காக உருவாக்கப்பட்டது.",
+      "verified_live": true
+    },
+    "te-IN": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Storeలో LockHour Pro పొందండి →",
+      "app_store_url": "https://apps.apple.com/in/app/id6780107485?pt=118326163&ct=iag_data_te_in&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "పరీక్షల సమయంలో, సంకల్పశక్తి సాధనం కాదు — కఠిన సమయపాలన బ్లాక్ అవసరం — లాక్‌హవర్ ప్రో దీనికోసం రూపొందించబడింది.",
+      "verified_live": true
+    },
+    "th": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "ดาวน์โหลด LockHour Pro ใน App Store →",
+      "app_store_url": "https://apps.apple.com/th/app/id6780107485?pt=118326163&ct=iag_data_th&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "ในช่วงสอบ ความตั้งใจไม่ใช่เครื่องมือ — แต่การบล็อกแบบเข้มงวดตามเวลาคือสิ่งที่จำเป็น — LockHour Pro ถูกสร้างมาเพื่อสิ่งนี้",
+      "verified_live": true
+    },
+    "tr": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "LockHour Pro'yu App Store'dan edinin →",
+      "app_store_url": "https://apps.apple.com/tr/app/id6780107485?pt=118326163&ct=iag_data_tr&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Sınavlarda irade gücü yeterli değildir — kesin zamanlı engelleme gerekir — LockHour Pro bunun için tasarlanmıştır.",
+      "verified_live": true
+    },
+    "uk": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Отримайте LockHour Pro в App Store →",
+      "app_store_url": "https://apps.apple.com/ua/app/id6780107485?pt=118326163&ct=iag_data_uk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Під час іспитів сила волі — не інструмент, потрібне жорстке блокування за часом — LockHour Pro створений саме для цього.",
+      "verified_live": true
+    },
+    "ur-PK": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "App Store سے LockHour Pro حاصل کریں →",
+      "app_store_url": "https://apps.apple.com/pk/app/id6780107485?pt=118326163&ct=iag_data_ur_pk&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "امتحانات کے دوران، حوصلہ نہیں بلکہ سخت وقت پر مبنی بلاک ضروری ہے — LockHour Pro اسی کے لیے بنایا گیا ہے۔",
+      "verified_live": true
+    },
+    "vi": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "Tải LockHour Pro trên App Store →",
+      "app_store_url": "https://apps.apple.com/vn/app/id6780107485?pt=118326163&ct=iag_data_vi&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "Trong kỳ thi, ý chí không phải là công cụ — mà là chặn nghiêm ngặt theo thời gian — LockHour Pro được thiết kế cho điều này.",
+      "verified_live": true
+    },
+    "zh-Hans": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "在 App Store 获取 LockHour Pro →",
+      "app_store_url": "https://apps.apple.com/cn/app/id6780107485?pt=118326163&ct=iag_data_zh_hans&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "考试期间，意志力不是工具——硬性定时屏蔽才是——LockHour Pro专为此设计。",
+      "verified_live": true
+    },
+    "zh-Hant": {
+      "app_name": "LockHour Pro",
+      "app_store_cta_label": "在 App Store 取得 LockHour Pro →",
+      "app_store_url": "https://apps.apple.com/tw/app/id6780107485?pt=118326163&ct=iag_data_zh_hant&mt=8",
+      "canonical_app_store_url": "https://apps.apple.com/app/id6780107485",
+      "decision_context": "考試期間，意志力不是工具——嚴格的定時封鎖才是——LockHour Pro 專為此設計。",
+      "verified_live": true
+    }
+  },
+  "contract": {
+    "catalog_digest": "73e695215f5c1f227535719048669c08733c71a1a22883e73aea0831f34fb764",
+    "config_digest": "ed2194ced7aeaa2ad2999d4335c2f5f19e8bf008a3f0cddcd2fe325107557e8e",
+    "digest": "58f2bdf84b6fd6a2825b88c6898546c1acb5bb486207528214c49b7d1b923395",
+    "schema": "support-surface-contract/v1"
+  },
+  "dynamic_app_link_exempt": [],
+  "exact_replacements": [],
+  "locale_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "es-ES": "Español",
+    "es-MX": "Español (México)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hr": "Hrvatski",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "ms": "Bahasa Melayu",
+    "nl-NL": "Nederlands",
+    "no": "Norsk bokmål",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文"
+  },
+  "managed_cells": {
+    "index": [
+      "en-AU",
+      "en-CA",
+      "en-GB",
+      "or-IN"
+    ],
+    "privacy": [
+      "en-AU",
+      "en-CA",
+      "en-GB",
+      "or-IN"
+    ],
+    "support": [
+      "en-AU",
+      "en-CA",
+      "en-GB",
+      "or-IN"
+    ]
+  },
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "paid_cleanup_questions": {},
+  "paid_privacy_overrides": {},
+  "privacy_authority": {
+    "digest": "1f96b9808be86e1d0a92ddc225f0d0f62a88ef5d7fc2118f96fa9bfd76d72773",
+    "sources": [
+      {
+        "path": "privacy.html",
+        "role": "site-owned English privacy policy",
+        "sha256": "dfb548862b483c67035213c5144138f8f06ae6f71cd3014ee62003e24d2f71ed"
+      }
+    ],
+    "status": "verified",
+    "updated": "2026-08-29"
+  },
+  "privacy_locales": {
+    "en-AU": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "If you enable iCloud, Apple may store or synchronise eligible app data through your own iCloud account. Apple handles that service; the developer cannot read the synced content.",
+          "heading": "iCloud and device sync",
+          "topic": "icloud"
+        },
+        {
+          "body": "{app} uses Apple's Screen Time frameworks only for the focus rules you choose. Apple supplies privacy-preserving tokens rather than app content, and the developer does not receive Screen Time data.",
+          "heading": "Screen Time permission",
+          "topic": "screentime"
+        },
+        {
+          "body": "The optional one-time in-app purchase is processed by Apple through the App Store. The developer does not receive payment details, and there is no recurring subscription.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "Because {app} does not collect personal data, it does not collect a child's personal data. It does not ask the developer for a child's name, birth date, contact details, photos, or health information.",
+          "heading": "Children's privacy",
+          "topic": "child"
+        },
+        {
+          "body": "You control the app data covered by this policy. Delete individual content where the app offers that control, or remove the app to remove its local container. Manage any Apple-hosted copy through Apple settings.",
+          "heading": "Your choices",
+          "topic": "choice"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    },
+    "en-CA": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "If you enable iCloud, Apple may store or synchronise eligible app data through your own iCloud account. Apple handles that service; the developer cannot read the synced content.",
+          "heading": "iCloud and device sync",
+          "topic": "icloud"
+        },
+        {
+          "body": "{app} uses Apple's Screen Time frameworks only for the focus rules you choose. Apple supplies privacy-preserving tokens rather than app content, and the developer does not receive Screen Time data.",
+          "heading": "Screen Time permission",
+          "topic": "screentime"
+        },
+        {
+          "body": "The optional one-time in-app purchase is processed by Apple through the App Store. The developer does not receive payment details, and there is no recurring subscription.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "Because {app} does not collect personal data, it does not collect a child's personal data. It does not ask the developer for a child's name, birth date, contact details, photos, or health information.",
+          "heading": "Children's privacy",
+          "topic": "child"
+        },
+        {
+          "body": "You control the app data covered by this policy. Delete individual content where the app offers that control, or remove the app to remove its local container. Manage any Apple-hosted copy through Apple settings.",
+          "heading": "Your choices",
+          "topic": "choice"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    },
+    "en-GB": {
+      "description": "{app} privacy policy: data handling, on-device processing, Apple services, purchases, and contact.",
+      "eyebrow": "Privacy Policy",
+      "lead": "How {app} handles information, where eligible data stays, and which choices remain under your control.",
+      "sections": [
+        {
+          "body": "None. {app} does not collect, transmit, sell, or share personal data. There is no developer-run account or sign-in system.",
+          "heading": "Data we collect",
+          "topic": "collect"
+        },
+        {
+          "body": "If you enable iCloud, Apple may store or synchronise eligible app data through your own iCloud account. Apple handles that service; the developer cannot read the synced content.",
+          "heading": "iCloud and device sync",
+          "topic": "icloud"
+        },
+        {
+          "body": "{app} uses Apple's Screen Time frameworks only for the focus rules you choose. Apple supplies privacy-preserving tokens rather than app content, and the developer does not receive Screen Time data.",
+          "heading": "Screen Time permission",
+          "topic": "screentime"
+        },
+        {
+          "body": "The optional one-time in-app purchase is processed by Apple through the App Store. The developer does not receive payment details, and there is no recurring subscription.",
+          "heading": "Purchases",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} contains no third-party advertising, analytics, attribution, or tracking SDK. The developer does not build a cross-app or cross-site profile.",
+          "heading": "Advertising, analytics, and tracking",
+          "topic": "third"
+        },
+        {
+          "body": "Because {app} does not collect personal data, it does not collect a child's personal data. It does not ask the developer for a child's name, birth date, contact details, photos, or health information.",
+          "heading": "Children's privacy",
+          "topic": "child"
+        },
+        {
+          "body": "You control the app data covered by this policy. Delete individual content where the app offers that control, or remove the app to remove its local container. Manage any Apple-hosted copy through Apple settings.",
+          "heading": "Your choices",
+          "topic": "choice"
+        },
+        {
+          "body": "If the app changes in a way that affects this policy, this page and its last-updated date will be revised.",
+          "heading": "Changes to this policy",
+          "topic": "change"
+        },
+        {
+          "body": "For privacy questions, email {email}.",
+          "heading": "Contact",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} Privacy Policy",
+      "translation_note": "",
+      "updated_label": "Last updated"
+    },
+    "or-IN": {
+      "description": "{app} ତଥ୍ୟ କିପରି ପରିଚାଳନା କରେ, ତଥ୍ୟ କେଉଁଠି ରହେ, Apple ସେବା, କିଣା ଏବଂ ଯୋଗାଯୋଗ ବିଷୟରେ ସୂଚନା।",
+      "eyebrow": "ଗୋପନୀୟତା ନୀତି",
+      "lead": "{app} କେଉଁ ତଥ୍ୟ ପ୍ରକ୍ରିୟା କରେ, ଯୋଗ୍ୟ ତଥ୍ୟ କେଉଁଠି ରହେ ଏବଂ କେଉଁ ବିକଳ୍ପ ଆପଣଙ୍କ ନିୟନ୍ତ୍ରଣରେ ରହେ—ଏହି ପୃଷ୍ଠାରେ ସେଥିର ବ୍ୟାଖ୍ୟା ଅଛି।",
+      "sections": [
+        {
+          "body": "କିଛି ନୁହେଁ। {app} ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ, ପଠାଇବା, ବିକ୍ରି କିମ୍ବା ଶେୟାର୍ କରେ ନାହିଁ। ଡେଭେଲପର୍‌ଙ୍କ ନିଜସ୍ୱ ଖାତା କିମ୍ବା ସାଇନ୍-ଇନ୍ ବ୍ୟବସ୍ଥା ନାହିଁ।",
+          "heading": "ଆମେ କେଉଁ ତଥ୍ୟ ସଂଗ୍ରହ କରୁ",
+          "topic": "collect"
+        },
+        {
+          "body": "ଆପଣ iCloud ଚାଲୁ କଲେ ଯୋଗ୍ୟ App ତଥ୍ୟ ଆପଣଙ୍କ ନିଜ iCloud ଖାତା ମାଧ୍ୟମରେ Apple ଦ୍ୱାରା ସଞ୍ଚୟ କିମ୍ବା ସିଙ୍କ୍ ହୋଇପାରେ। ଏହି ସେବା Apple ପରିଚାଳନା କରେ; ଡେଭେଲପର୍ ସିଙ୍କ୍ ହୋଇଥିବା ବିଷୟବସ୍ତୁ ପଢ଼ିପାରନ୍ତି ନାହିଁ।",
+          "heading": "iCloud ଓ ଡିଭାଇସ୍ ସିଙ୍କ୍",
+          "topic": "icloud"
+        },
+        {
+          "body": "{app} କେବଳ ଆପଣ ବାଛିଥିବା focus ନିୟମ ପାଇଁ Apple ର Screen Time framework ବ୍ୟବହାର କରେ। Apple App ବିଷୟବସ୍ତୁ ପରିବର୍ତ୍ତେ ଗୋପନୀୟତା-ସୁରକ୍ଷିତ token ଦିଏ ଏବଂ ଡେଭେଲପର୍ Screen Time ତଥ୍ୟ ପାଆନ୍ତି ନାହିଁ।",
+          "heading": "Screen Time ଅନୁମତି",
+          "topic": "screentime"
+        },
+        {
+          "body": "ଏକଥରିଆ App ଭିତର କିଣା Apple ଦ୍ୱାରା App Store ମାଧ୍ୟମରେ ପ୍ରକ୍ରିୟା କରାଯାଏ। ଡେଭେଲପର୍ ଆପଣଙ୍କ ପେମେଣ୍ଟ ବିବରଣୀ ପାଆନ୍ତି ନାହିଁ ଏବଂ କୌଣସି ପୁନରାବୃତ୍ତି ସଦସ୍ୟତା ନାହିଁ।",
+          "heading": "କିଣା",
+          "topic": "purchase"
+        },
+        {
+          "body": "{app} ରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ, attribution କିମ୍ବା tracking SDK ନାହିଁ। ଡେଭେଲପର୍ App କିମ୍ବା website ମଧ୍ୟରେ ଆପଣଙ୍କ profile ତିଆରି କରନ୍ତି ନାହିଁ।",
+          "heading": "ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ ଓ ଟ୍ରାକିଂ",
+          "topic": "third"
+        },
+        {
+          "body": "{app} ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ସଂଗ୍ରହ କରେ ନାହିଁ, ତେଣୁ ଶିଶୁଙ୍କ ବ୍ୟକ୍ତିଗତ ତଥ୍ୟ ମଧ୍ୟ ସଂଗ୍ରହ କରେ ନାହିଁ। ଡେଭେଲପର୍‌ଙ୍କୁ ଶିଶୁର ନାମ, ଜନ୍ମତାରିଖ, ଯୋଗାଯୋଗ ତଥ୍ୟ, ଫଟୋ କିମ୍ବା ସ୍ୱାସ୍ଥ୍ୟ ତଥ୍ୟ ଦେବାକୁ App ମାଗେ ନାହିଁ।",
+          "heading": "ଶିଶୁଙ୍କ ଗୋପନୀୟତା",
+          "topic": "child"
+        },
+        {
+          "body": "ଏହି ନୀତିରେ ଥିବା App ତଥ୍ୟ ଆପଣଙ୍କ ନିୟନ୍ତ୍ରଣରେ ରହେ। App ରେ ଉପଲବ୍ଧ ଥିଲେ ଅଲଗା ବିଷୟବସ୍ତୁ ଡିଲିଟ୍ କରନ୍ତୁ କିମ୍ବା ସ୍ଥାନୀୟ container ହଟାଇବାକୁ App ଡିଲିଟ୍ କରନ୍ତୁ। Apple ରେ ରଖାଯାଇଥିବା ପ୍ରତିଲିପି Apple settings ରୁ ପରିଚାଳନା କରନ୍ତୁ।",
+          "heading": "ଆପଣଙ୍କ ନିୟନ୍ତ୍ରଣ",
+          "topic": "choice"
+        },
+        {
+          "body": "App ର କୌଣସି ପରିବର୍ତ୍ତନ ଏହି ନୀତିକୁ ପ୍ରଭାବିତ କଲେ, ଏହି ପୃଷ୍ଠା ଏବଂ ଶେଷ ଅଦ୍ୟତନ ତାରିଖ ସଂଶୋଧନ କରାଯିବ।",
+          "heading": "ଏହି ନୀତିର ପରିବର୍ତ୍ତନ",
+          "topic": "change"
+        },
+        {
+          "body": "ଗୋପନୀୟତା ସମ୍ବନ୍ଧୀୟ ପ୍ରଶ୍ନ ପାଇଁ {email} କୁ ଇମେଲ୍ କରନ୍ତୁ।",
+          "heading": "ଯୋଗାଯୋଗ",
+          "topic": "contact"
+        }
+      ],
+      "title": "{app} ଗୋପନୀୟତା ନୀତି",
+      "translation_note": "",
+      "updated_label": "ଶେଷ ଅଦ୍ୟତନ"
+    }
+  },
+  "privacy_topics": [
+    "collect",
+    "icloud",
+    "screentime",
+    "purchase",
+    "third",
+    "child",
+    "choice",
+    "change",
+    "contact"
+  ],
+  "required_surfaces": [
+    "index",
+    "support",
+    "privacy"
+  ],
+  "schema": "support-surface-source/v1",
+  "site_key": "lockhour-support",
+  "source_digest": "cfda54a8c9a95c31906e970addc7b51466f10eba029fb3b2de5db06326964f98",
+  "ui_locales": {
+    "ar-SA": {
+      "app_store_label": "عرض في App Store",
+      "language_label": "اللغة",
+      "nav_home": "الرئيسية",
+      "nav_privacy": "الخصوصية",
+      "nav_support": "الدعم"
+    },
+    "bn-BD": {
+      "app_store_label": "App Store-এ দেখুন",
+      "language_label": "ভাষা",
+      "nav_home": "হোম",
+      "nav_privacy": "গোপনীয়তা",
+      "nav_support": "সহায়তা"
+    },
+    "ca": {
+      "app_store_label": "Veure a l'App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inici",
+      "nav_privacy": "Privadesa",
+      "nav_support": "Assistència"
+    },
+    "cs": {
+      "app_store_label": "Zobrazit v App Storu",
+      "language_label": "Jazyk",
+      "nav_home": "Úvod",
+      "nav_privacy": "Soukromí",
+      "nav_support": "Podpora"
+    },
+    "da": {
+      "app_store_label": "Se i App Store",
+      "language_label": "Sprog",
+      "nav_home": "Forside",
+      "nav_privacy": "Privatliv",
+      "nav_support": "Support"
+    },
+    "de-DE": {
+      "app_store_label": "Im App Store ansehen",
+      "language_label": "Sprache",
+      "nav_home": "Start",
+      "nav_privacy": "Datenschutz",
+      "nav_support": "Support"
+    },
+    "el": {
+      "app_store_label": "Προβολή στο App Store",
+      "language_label": "Γλώσσα",
+      "nav_home": "Αρχική",
+      "nav_privacy": "Απόρρητο",
+      "nav_support": "Υποστήριξη"
+    },
+    "en-AU": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Free to start · one-time unlock · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-CA": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Free to start · one-time unlock · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-GB": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Free to start · one-time unlock · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Centre",
+      "support_heading": "Support Centre",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Centre",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "en-US": {
+      "app_store_heading": "App Store",
+      "app_store_label": "View on the App Store",
+      "app_store_note": "The link below opens this app's verified App Store listing.",
+      "contact_body": "For help with {app}, email",
+      "contact_heading": "Contact support",
+      "index_eyebrow": "Official support site",
+      "index_title": "{app} — Official support",
+      "language_label": "Language",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support",
+      "parents_heading": "For parents and caregivers",
+      "parents_note": "",
+      "privacy_heading": "Privacy",
+      "privacy_link": "Read the privacy policy",
+      "purchase_heading": "Purchase model",
+      "purchase_label": "Free to start · one-time unlock · no subscription.",
+      "steps": [
+        "Close {app} completely, then open it again.",
+        "Restart your iPhone or iPad.",
+        "Open the App Store and install any available update for {app}.",
+        "If the problem remains, email support with your device model, iOS version, app version, and the steps that reproduce it."
+      ],
+      "steps_heading": "Try these checks first",
+      "support_eyebrow": "Support Center",
+      "support_heading": "Support Center",
+      "support_intro": "Troubleshooting steps and a direct public contact route for {app}.",
+      "support_link": "Open support and troubleshooting",
+      "support_title": "{app} — Support Center",
+      "verified_body": "This page keeps the official support route, privacy information, purchase model, and verified App Store destination for {app} together.",
+      "verified_heading": "Verified first-party information"
+    },
+    "es-ES": {
+      "app_store_label": "Ver en el App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inicio",
+      "nav_privacy": "Privacidad",
+      "nav_support": "Soporte"
+    },
+    "es-MX": {
+      "app_store_label": "Ver en el App Store",
+      "language_label": "Idioma",
+      "nav_home": "Inicio",
+      "nav_privacy": "Privacidad",
+      "nav_support": "Soporte"
+    },
+    "fi": {
+      "app_store_label": "Katso App Storessa",
+      "language_label": "Kieli",
+      "nav_home": "Etusivu",
+      "nav_privacy": "Tietosuoja",
+      "nav_support": "Tuki"
+    },
+    "fr-CA": {
+      "app_store_label": "Voir sur l'App Store",
+      "language_label": "Langue",
+      "nav_home": "Accueil",
+      "nav_privacy": "Confidentialité",
+      "nav_support": "Assistance"
+    },
+    "fr-FR": {
+      "app_store_label": "Voir sur l'App Store",
+      "language_label": "Langue",
+      "nav_home": "Accueil",
+      "nav_privacy": "Confidentialité",
+      "nav_support": "Assistance"
+    },
+    "gu-IN": {
+      "app_store_label": "App Store પર જુઓ",
+      "language_label": "ભાષા",
+      "nav_home": "હોમ",
+      "nav_privacy": "ગોપનીયતા",
+      "nav_support": "સહાય"
+    },
+    "he": {
+      "app_store_label": "הצג ב-App Store",
+      "language_label": "שפה",
+      "nav_home": "דף הבית",
+      "nav_privacy": "פרטיות",
+      "nav_support": "תמיכה"
+    },
+    "hi": {
+      "app_store_label": "App Store में देखें",
+      "language_label": "भाषा",
+      "nav_home": "होम",
+      "nav_privacy": "निजता",
+      "nav_support": "सहायता"
+    },
+    "hr": {
+      "app_store_label": "Prikaži u App Storeu",
+      "language_label": "Jezik",
+      "nav_home": "Početna",
+      "nav_privacy": "Privatnost",
+      "nav_support": "Podrška"
+    },
+    "hu": {
+      "app_store_label": "Megtekintés az App Store-ban",
+      "language_label": "Nyelv",
+      "nav_home": "Kezdőlap",
+      "nav_privacy": "Adatvédelem",
+      "nav_support": "Támogatás"
+    },
+    "id": {
+      "app_store_label": "Lihat di App Store",
+      "language_label": "Bahasa",
+      "nav_home": "Beranda",
+      "nav_privacy": "Privasi",
+      "nav_support": "Dukungan"
+    },
+    "it": {
+      "app_store_label": "Vedi su App Store",
+      "language_label": "Lingua",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Assistenza"
+    },
+    "ja": {
+      "app_store_label": "App Storeで見る",
+      "language_label": "言語",
+      "nav_home": "ホーム",
+      "nav_privacy": "プライバシー",
+      "nav_support": "サポート"
+    },
+    "kn-IN": {
+      "app_store_label": "App Store ನಲ್ಲಿ ನೋಡಿ",
+      "language_label": "ಭಾಷೆ",
+      "nav_home": "ಮುಖಪುಟ",
+      "nav_privacy": "ಗೌಪ್ಯತೆ",
+      "nav_support": "ನೆರವು"
+    },
+    "ko": {
+      "app_store_label": "App Store에서 보기",
+      "language_label": "언어",
+      "nav_home": "홈",
+      "nav_privacy": "개인정보 처리방침",
+      "nav_support": "지원"
+    },
+    "ml-IN": {
+      "app_store_label": "App Store-ൽ കാണുക",
+      "language_label": "ഭാഷ",
+      "nav_home": "ഹോം",
+      "nav_privacy": "സ്വകാര്യത",
+      "nav_support": "പിന്തുണ"
+    },
+    "mr-IN": {
+      "app_store_label": "App Store वर पाहा",
+      "language_label": "भाषा",
+      "nav_home": "मुख्यपृष्ठ",
+      "nav_privacy": "गोपनीयता",
+      "nav_support": "मदत"
+    },
+    "ms": {
+      "app_store_label": "Lihat di App Store",
+      "language_label": "Bahasa",
+      "nav_home": "Laman utama",
+      "nav_privacy": "Privasi",
+      "nav_support": "Sokongan"
+    },
+    "nl-NL": {
+      "app_store_label": "Bekijk in de App Store",
+      "language_label": "Taal",
+      "nav_home": "Home",
+      "nav_privacy": "Privacy",
+      "nav_support": "Support"
+    },
+    "no": {
+      "app_store_label": "Vis i App Store",
+      "language_label": "Språk",
+      "nav_home": "Hjem",
+      "nav_privacy": "Personvern",
+      "nav_support": "Kundestøtte"
+    },
+    "or-IN": {
+      "app_store_heading": "App Store",
+      "app_store_label": "App Storeରେ ଦେଖନ୍ତୁ",
+      "app_store_note": "ତଳର ଲିଙ୍କ ଏହି App ର ଯାଞ୍ଚିତ App Store ପୃଷ୍ଠା ଖୋଲେ।",
+      "contact_body": "{app} ବିଷୟରେ ସହାୟତା ପାଇଁ ଇମେଲ୍ କରନ୍ତୁ:",
+      "contact_heading": "ସହାୟତା ସହ ଯୋଗାଯୋଗ",
+      "index_eyebrow": "ସରକାରୀ ସହାୟତା ସାଇଟ୍",
+      "index_title": "{app} — ସରକାରୀ ସହାୟତା",
+      "language_label": "ଭାଷା",
+      "nav_home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+      "nav_privacy": "ଗୋପନୀୟତା",
+      "nav_support": "ସହାୟତା",
+      "parents_heading": "ଅଭିଭାବକ ଓ ଦେଖଭାଳକାରୀଙ୍କ ପାଇଁ",
+      "parents_note": "",
+      "privacy_heading": "ଗୋପନୀୟତା",
+      "privacy_link": "ଗୋପନୀୟତା ନୀତି ପଢ଼ନ୍ତୁ",
+      "purchase_heading": "କିଣା ମଡେଲ୍",
+      "purchase_label": "ମାଗଣାରେ ଆରମ୍ଭ କରନ୍ତୁ; ସମ୍ପୂର୍ଣ୍ଣ ବୈଶିଷ୍ଟ୍ୟ ପାଇଁ ଏକଥରିଆ ଅନଲକ୍ ଅଛି ଏବଂ କୌଣସି ସଦସ୍ୟତା ନାହିଁ।",
+      "steps": [
+        "{app} କୁ ସମ୍ପୂର୍ଣ୍ଣ ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ।",
+        "ଆପଣଙ୍କ iPhone କିମ୍ବା iPad ପୁନରାରମ୍ଭ କରନ୍ତୁ।",
+        "App Store ଖୋଲି {app} ପାଇଁ ଉପଲବ୍ଧ ଅଦ୍ୟତନ ଇନ୍‌ଷ୍ଟଲ୍ କରନ୍ତୁ।",
+        "ସମସ୍ୟା ରହିଲେ ଡିଭାଇସ୍ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି ଘଟାଇବା ପଦକ୍ଷେପ ସହ ଇମେଲ୍ କରନ୍ତୁ।"
+      ],
+      "steps_heading": "ପ୍ରଥମେ ଏହି ପଦକ୍ଷେପ ଚେଷ୍ଟା କରନ୍ତୁ",
+      "support_eyebrow": "ସହାୟତା କେନ୍ଦ୍ର",
+      "support_heading": "ସହାୟତା କେନ୍ଦ୍ର",
+      "support_intro": "{app} ପାଇଁ ସମସ୍ୟା ସମାଧାନ ପଦକ୍ଷେପ ଏବଂ ସିଧାସଳଖ ସାର୍ବଜନୀନ ସହାୟତା ଯୋଗାଯୋଗ।",
+      "support_link": "ସହାୟତା ଓ ସମସ୍ୟା ସମାଧାନ ଖୋଲନ୍ତୁ",
+      "support_title": "{app} — ସହାୟତା କେନ୍ଦ୍ର",
+      "verified_body": "ଏହି ପୃଷ୍ଠାରେ {app} ପାଇଁ ସରକାରୀ ସହାୟତା ରାସ୍ତା, ଗୋପନୀୟତା ସୂଚନା, କିଣା ମଡେଲ୍ ଏବଂ ଯାଞ୍ଚିତ App Store ଲିଙ୍କ ଏକ ସ୍ଥାନରେ ମିଳେ।",
+      "verified_heading": "ଯାଞ୍ଚିତ ପ୍ରଥମ-ପକ୍ଷ ସୂଚନା"
+    },
+    "pa-IN": {
+      "app_store_label": "App Store ਵਿੱਚ ਦੇਖੋ",
+      "language_label": "ਭਾਸ਼ਾ",
+      "nav_home": "ਮੁੱਖ ਪੰਨਾ",
+      "nav_privacy": "ਨਿੱਜਤਾ",
+      "nav_support": "ਸਹਾਇਤਾ"
+    },
+    "pl": {
+      "app_store_label": "Zobacz w App Store",
+      "language_label": "Język",
+      "nav_home": "Start",
+      "nav_privacy": "Prywatność",
+      "nav_support": "Pomoc techniczna"
+    },
+    "pt-BR": {
+      "app_store_label": "Ver na App Store",
+      "language_label": "Idioma",
+      "nav_home": "Início",
+      "nav_privacy": "Privacidade",
+      "nav_support": "Suporte"
+    },
+    "pt-PT": {
+      "app_store_label": "Ver na App Store",
+      "language_label": "Idioma",
+      "nav_home": "Início",
+      "nav_privacy": "Privacidade",
+      "nav_support": "Apoio"
+    },
+    "ro": {
+      "app_store_label": "Vezi în App Store",
+      "language_label": "Limbă",
+      "nav_home": "Acasă",
+      "nav_privacy": "Confidențialitate",
+      "nav_support": "Asistență"
+    },
+    "ru": {
+      "app_store_label": "Открыть в App Store",
+      "language_label": "Язык",
+      "nav_home": "Главная",
+      "nav_privacy": "Конфиденциальность",
+      "nav_support": "Поддержка"
+    },
+    "sk": {
+      "app_store_label": "Zobraziť v App Store",
+      "language_label": "Jazyk",
+      "nav_home": "Úvod",
+      "nav_privacy": "Súkromie",
+      "nav_support": "Podpora"
+    },
+    "sl-SI": {
+      "app_store_label": "Ogled v App Storu",
+      "language_label": "Jezik",
+      "nav_home": "Domov",
+      "nav_privacy": "Zasebnost",
+      "nav_support": "Podpora"
+    },
+    "sv": {
+      "app_store_label": "Visa i App Store",
+      "language_label": "Språk",
+      "nav_home": "Start",
+      "nav_privacy": "Integritet",
+      "nav_support": "Support"
+    },
+    "ta-IN": {
+      "app_store_label": "App Store-இல் பார்க்கவும்",
+      "language_label": "மொழி",
+      "nav_home": "முகப்பு",
+      "nav_privacy": "தனியுரிமை",
+      "nav_support": "ஆதரவு"
+    },
+    "te-IN": {
+      "app_store_label": "App Storeలో చూడండి",
+      "language_label": "భాష",
+      "nav_home": "హోమ్",
+      "nav_privacy": "గోప్యత",
+      "nav_support": "సహాయం"
+    },
+    "th": {
+      "app_store_label": "ดูใน App Store",
+      "language_label": "ภาษา",
+      "nav_home": "หน้าแรก",
+      "nav_privacy": "ความเป็นส่วนตัว",
+      "nav_support": "การสนับสนุน"
+    },
+    "tr": {
+      "app_store_label": "App Store'da görüntüle",
+      "language_label": "Dil",
+      "nav_home": "Ana sayfa",
+      "nav_privacy": "Gizlilik",
+      "nav_support": "Destek"
+    },
+    "uk": {
+      "app_store_label": "Переглянути в App Store",
+      "language_label": "Мова",
+      "nav_home": "Головна",
+      "nav_privacy": "Конфіденційність",
+      "nav_support": "Підтримка"
+    },
+    "ur-PK": {
+      "app_store_label": "App Store پر دیکھیں",
+      "language_label": "زبان",
+      "nav_home": "ہوم",
+      "nav_privacy": "پرائیویسی",
+      "nav_support": "سپورٹ"
+    },
+    "vi": {
+      "app_store_label": "Xem trên App Store",
+      "language_label": "Ngôn ngữ",
+      "nav_home": "Trang chủ",
+      "nav_privacy": "Quyền riêng tư",
+      "nav_support": "Hỗ trợ"
+    },
+    "zh-Hans": {
+      "app_store_label": "在 App Store 查看",
+      "language_label": "语言",
+      "nav_home": "首页",
+      "nav_privacy": "隐私政策",
+      "nav_support": "支持"
+    },
+    "zh-Hant": {
+      "app_store_label": "在 App Store 檢視",
+      "language_label": "語言",
+      "nav_home": "首頁",
+      "nav_privacy": "隱私權",
+      "nav_support": "支援"
+    }
+  }
+}
