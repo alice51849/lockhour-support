@@ -9,10 +9,10 @@
 
 ## Support
 
-- [Help, FAQ and troubleshooting](https://alice51849.github.io/lockhour-support/help.html)
-- [Official support site](https://alice51849.github.io/lockhour-support/)
-- [Privacy policy](https://alice51849.github.io/lockhour-support/privacy.html)
-- [Support and FAQ](https://alice51849.github.io/lockhour-support/support.html)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/lockhour-support/help.html)
+- [Official support site](https://open.cait518.cc/lockhour-support/)
+- [Privacy policy](https://open.cait518.cc/lockhour-support/privacy.html)
+- [Support and FAQ](https://open.cait518.cc/lockhour-support/support.html)
 
 ## Portfolio
 
