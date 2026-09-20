@@ -110,6 +110,10 @@
       <li>LockHour Pro does <strong>not</strong> collect, log, or transmit any Screen Time data.</li>
     </ul>
 
+    <h2 id="android">Android (Google Play)</h2>
+    <p>LockHour Pro is also available on Google Play as <code>com.focuslockpro.app</code>. Android has no equivalent to Apple's Screen Time APIs, so the Android app uses a different, publicly documented mechanism to the same end: it reads the name of the app currently in the foreground (Android's <code>Usage Access</code> permission) and, when that app is on your blocked list, shows an overlay screen over it (Android's <code>Display over other apps</code> permission). Both permissions are requested directly from Android's own settings and are used only to run this feature — nothing is logged, stored, or sent anywhere.</p>
+    <p><strong>LockHour Pro for Android is a focus aid, not an unbreakable lock.</strong> Unlike iOS Screen Time, this mechanism is not enforced by the operating system: turning off either permission, force‑closing the app, or restarting the device will stop it from shielding your chosen apps. It is designed to add a moment of friction so you can choose intentionally, not to make it impossible to reach an app. There is no website blocking, no Apple Watch companion, and no Live Activity/Dynamic Island on Android — the Home Screen widget shows the same at‑a‑glance progress instead.</p>
+
     <h2>Purchases</h2>
     <p>The optional one‑time unlock is processed by Apple through the App Store. We never see your payment details. Apple’s privacy policy governs that transaction.</p>
 
