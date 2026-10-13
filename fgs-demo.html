@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LockHour Pro – Foreground service demo</title>
+<meta name="description" content="Screen recording showing how LockHour Pro uses its foreground service (FOREGROUND_SERVICE_SPECIAL_USE) during a focus session.">
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="style.css">
+<style>
+main.fgs{max-width:760px;margin:0 auto;padding:24px 16px 48px;line-height:1.6}
+main.fgs video{display:block;width:100%;max-width:360px;margin:16px auto;border-radius:16px;background:#000}
+main.fgs ol li{margin:.25em 0}
+</style>
+</head>
+<body>
+<main class="fgs">
+<h1>LockHour Pro – Foreground service demo</h1>
+<p>This video is a real screen recording of LockHour Pro for Android (release build, Android 15 emulator). It shows why the app uses a foreground service of type <code>specialUse</code> (<code>FOREGROUND_SERVICE_SPECIAL_USE</code>).</p>
+<video controls playsinline preload="metadata" src="fgs-demo.mp4"></video>
+<p><a href="fgs-demo.mp4">Download / open the video file (MP4, H.264)</a></p>
+<h2>What the foreground service does</h2>
+<p>While a focus session that the user started is running, <code>UsageMonitorService</code> checks which app is in the foreground (using Usage Access that the user granted) and, if it is an app the user chose to block, shows LockHour's blocking screen. Its ongoing notification shows the time remaining. The service stops and the notification is removed as soon as the session ends or is ended by the user. No data leaves the device.</p>
+<h2>Steps shown in the video</h2>
+<ol>
+<li>Open LockHour Pro.</li>
+<li>Choose an app to block (Clock in this demo) and save.</li>
+<li>Start a focus session – the foreground service starts.</li>
+<li>The ongoing notification in the notification shade shows the time left.</li>
+<li>Opening the blocked app shows the LockHour blocking screen.</li>
+<li>"Keep Focusing" returns to LockHour.</li>
+<li>End the session – the service stops and the notification is removed.</li>
+</ol>
+<p><a href="./">LockHour Pro support</a> · <a href="privacy.html">Privacy Policy</a></p>
+</main>
+</body>
+</html>
