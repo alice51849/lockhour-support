@@ -17,3 +17,9 @@
 ## Portfolio
 
 - [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
+
+## About the app (AI-readable Q&A pages)
+
+- [LockHour Pro: حظر التطبيقات — about this app (ar-SA): what it is, who it is for, pricing, comparison and FAQ](https://open.cait518.cc/lockhour-support/about-lockhour-app.ar-SA.html)
+- [LockHour Pro：アプリ制限・集中タイマー — about this app (ja): what it is, who it is for, pricing, comparison and FAQ](https://open.cait518.cc/lockhour-support/about-lockhour-app.ja.html)
+- [LockHour Pro: Uygulama kilidi — about this app (tr): what it is, who it is for, pricing, comparison and FAQ](https://open.cait518.cc/lockhour-support/about-lockhour-app.tr.html)
